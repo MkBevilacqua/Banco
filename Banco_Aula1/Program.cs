@@ -16,6 +16,7 @@ namespace Banco_Aula1
             bool sair = false;
             do
             {
+                string teste;
                 Console.Clear();
                 Console.WriteLine("1- Gravar Aluno.");
                 Console.WriteLine("2- Procurar pelo id.");
